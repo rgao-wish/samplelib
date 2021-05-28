@@ -1,1 +1,1 @@
-module github.com/athens-artifacts/samplelib
+module github.com/rgao-wish/samplelib
