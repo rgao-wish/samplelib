@@ -3,7 +3,7 @@ package samplelib
 import (
 	"fmt"
 
-	"github.com/athens-artifacts/samplelib/types"
+	"github.com/rgao-wish/samplelib/types"
 )
 
 func Hello() string {
